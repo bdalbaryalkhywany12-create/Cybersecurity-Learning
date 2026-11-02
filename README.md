@@ -1,2 +1,36 @@
-# Cybersecurity-Learning
-My cybersecurity learning and projects
+# 👨‍💻 عبد الباري الخيواني
+
+### Cybersecurity Student | Programmer | Future Cybersecurity Professional
+
+---
+
+## 👋 من أنا؟
+
+أنا عبد الباري الخيواني، طالب في مجال الأمن السيبراني، مهتم بالبرمجة والشبكات وأمن المعلومات.
+
+أعمل على تطوير مهاراتي التقنية من خلال التعلم المستمر والتطبيق العملي وبناء المشاريع البرمجية.
+
+## 🎯 مجالات اهتمامي
+
+- 🔐 Cybersecurity
+- 🌐 Computer Networking
+- 💻 C++ Programming
+- ☕ Java Programming
+- 🌍 HTML & CSS
+- 🔑 Cryptography
+- 🛡️ Information Security
+
+## 📚 أهدافي
+
+- تعلم البرمجة من الأساسيات حتى الاحتراف.
+- فهم الشبكات وأمن المعلومات بعمق.
+- بناء مشاريع برمجية عملية.
+- تطوير مهاراتي في الاختبار الأمني الأخلاقي.
+
+## 💡 شعاري
+
+> لا أتعلم لأعرف فقط، بل أتعلم لأبني وأطبق وأبدع.
+
+---
+
+**© Abdul Bari Al-Khaiwani**
